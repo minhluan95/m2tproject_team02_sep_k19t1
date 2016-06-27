@@ -11,7 +11,7 @@ package tranning_part2;
  */
 public class ManageTags extends javax.swing.JFrame {
 
-    /**
+    /**2
      * Creates new form ManageTags
      */
     public ManageTags() {
